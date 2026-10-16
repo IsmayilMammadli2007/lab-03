@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 – Critical-Responsible Use of GenAI for Data Science"
-author: "Team Name: Ismayil, Antonia, Yusef, Ryan"
+author: "RIAY: Ismayil, Antonia, Yusef, Ryan"
 date: "`r Sys.Date()`"
 output: html_document
 ---
